@@ -5,6 +5,7 @@
 .yarn
 /.pnp
 .pnp.js
+.eslintcache
 
 # testing
 /coverage
